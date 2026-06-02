@@ -1,0 +1,24 @@
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Base de datos
+# Descomenta la siguiente línea si NO quieres subir la base de datos de prueba a GitHub
+# *.db
+# *.sqlite3
+
+# Archivos de Streamlit
+.streamlit/credentials.toml
+
+# Obsidian (opcional, si no quieres subir la configuración de tus notas)
+# .obsidian/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
